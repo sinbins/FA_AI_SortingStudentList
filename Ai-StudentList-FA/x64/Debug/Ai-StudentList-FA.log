@@ -1,0 +1,3 @@
+﻿  Ai-StudentList-FA.cpp
+D:\C++ Projects\AiClassProjects\Ai-StudentList-FA\Ai-StudentList-FA.cpp(74,36): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Ai-StudentList-FA.vcxproj -> D:\C++ Projects\AiClassProjects\Ai-StudentList-FA\x64\Debug\Ai-StudentList-FA.exe
